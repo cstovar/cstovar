@@ -22,12 +22,11 @@ If you want to see what I’ve worked on, please visit my Portfolio-Showcase rep
 ## 🧠 Skills & Technologies
 
 - **Software Architecture & Backend:** Microservices, REST APIs, FastAPI (Python), authentication & authorization
-- **Cloud & DevOps:** Docker, Docker Compose, cloud deployments (Vercel), basic CI/CD concepts
-- **Mobile Development:** Android (Kotlin, Java), Jetpack Compose, GPS & location services, SQLite, AI API integration
-- **Data & IoT:** PostgreSQL, MongoDB, InfluxDB, MySql, SQL Server
-- **AI & Machine Learning:** CNNs, Computer Vision, TensorFlow / Keras, model evaluation
+- **Cloud & DevOps:** Docker, cloud deployments (Vercel), basic CI/CD concepts
+- **Mobile Development:** Android (Kotlin, Java), GPS & location services, SQLite, AI API integration
+- **Data Bases:** PostgreSQL, MongoDB, InfluxDB, MySQL, SQL Server
+- **AI & Machine Learning:** CNNs, Computer Vision, Pytorch, Scikit-learn
 - **Security:** RSA encryption fundamentals, secure client–server communication
-- **Geospatial & Engineering:** Contour lines, point cloud generation, AutoCAD integration
 - **Tools & Practices:** Git & GitHub, collaborative development, technical documentation
 
 
