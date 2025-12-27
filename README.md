@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im Cristian, a Systems and Computing Engineer, located in Bogotá, Colombia 
+I'm Cristian, a Systems and Computing Engineer, located in Bogotá, Colombia 
 
 If you want to see what I’ve worked on, please visit my Portfolio-Showcase repository.
 
