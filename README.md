@@ -81,25 +81,25 @@ I'm a software engineer passionate about building **secure, scalable, and reliab
 
 ## 🎯 Featured Projects
 
-### 🌾 [Rootly](https://github.com/cstovar/rootly-link) 
+### 🌾 [Rootly](https://github.com/swarch-2f-rootly) 
 Agricultural monitoring system with IoT integration, microservices architecture, and containerized deployment
 
 **Tech:** Python • Docker • Microservices • System Design
+
+### 🤝 [SkillTrade](https://github.com/p1-SwEng2-2025i-Ornitorrinco)
+Community marketplace with internal digital currency and reputation system for fair service exchange
+
+**Tech:** Backend Development • System Deployment • Project Planning
+
+### 🧠 [Facial Recognition System](https://github.com/cstovar/FacialRecognitionCNN)
+Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks
+
+**Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
 
 ### 🔐 [Secure Chat with RSA](https://github.com/cstovar/discreteIIProject)
 End-to-end encrypted chat demonstrating cryptographic fundamentals and secure client-server communication
 
 **Tech:** Python • WebSocket • RSA Encryption • Network Security
-
-### 🤝 SkillTrade
-Community marketplace with internal digital currency and reputation system for fair service exchange
-
-**Tech:** Backend Development • System Deployment • Project Planning
-
-### 🧠 Facial Recognition System
-Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks
-
-**Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
 
 ---
 
@@ -107,7 +107,7 @@ Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face r
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cstovar)
 - 🌐 [Portfolio & Showcase](https://github.com/cstovar/Portfolio-Showcase)
-- 📧 Email: [Add your email if comfortable]
+- 📧 Email: [cstovar@outlook.com]
 
 <div align="center">
   
