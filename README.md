@@ -97,7 +97,7 @@ Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face r
 **Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
 
 ### 🎮 [Android Tic Tac Toe with Firebase Multiplayer](https://github.com/MobileAppsDevelopment2025II/AndroidTicTacToe)
-Full-featured Android game with **real-time online multiplayer** via Firebase Firestore and **AI opponent** with multiple difficulty levels
+Full-featured Android game with **real-time online multiplayer** via Firebase Firestore and **CPU opponent** with multiple difficulty levels
 
 **Tech:** Kotlin • Android • Firebase • Cloud Firestore • Material Design
 
