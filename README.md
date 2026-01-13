@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a software engineer passionate about building **secure, scalable, and reliable systems**. My focus lies in backend development, cloud architecture, and system security—always designing with resilience and maintainability in mind.
+I'm a Systems and Computing engineer passionate about building **secure, scalable, and reliable systems**. My focus lies in backend development, cloud architecture, and system security—always designing with resilience and maintainability in mind.
 
 - 🌱 Currently working on **Rootly** - an agricultural monitoring system using IoT and microservices
 - 🔭 Exploring advanced distributed systems, Kubernetes, and event-driven architectures
