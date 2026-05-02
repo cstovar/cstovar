@@ -23,7 +23,7 @@ I have worked on projects involving **computer vision, predictive analysis, and 
 - 🔭 Interested in Machine Learning, distributed systems, and data-driven decision making
 - 💡 Strong focus on system design, clean architecture, and practical ML applications
 
-> *"Security and reliability aren't features—they're foundations"*
+> *"Turning data into decisions through intelligent systems."*
 
 ---
 
@@ -81,13 +81,13 @@ I have worked on projects involving **computer vision, predictive analysis, and 
 ## 🎯 Featured Projects
 
 ### 🧠 [Facial Recognition System](https://github.com/cstovar/FacialRecognitionCNN)
-Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks
+Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks, evaluating performance across different architectures
 
 **Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
 
 
 ### 🌾 [Rootly](https://github.com/swarch-2f-rootly) 
-Agricultural monitoring system with IoT integration, microservices architecture, and containerized deployment
+Agricultural monitoring system with IoT integration and data analysis capabilities to support real-time decision-making
 
 **Tech:** Python • Docker • Microservices • System Design
 
@@ -119,7 +119,6 @@ End-to-end encrypted chat demonstrating cryptographic fundamentals and secure cl
 
 <div align="center">
   
-### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cstovar&color=blueviolet&style=flat)
 
