@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Cristian Santiago Tovar
 
-### Systems & Computing Engineer | Backend Specialist | Security Enthusiast
+### Systems & Computing Engineer | Machine Learning & Backend Engineer
 
 📍 Bogotá, Colombia 🇨🇴
 
@@ -15,13 +15,13 @@
 
 ## About Me
 
-I'm a Systems and Computing engineer passionate about building **secure, scalable, and reliable systems**. My focus lies in backend development, cloud architecture, and system security—always designing with resilience and maintainability in mind.
+I'm a Systems and Computing engineer focused on building **data-driven and intelligent systems**. My interests lie in Machine Learning, backend development, and scalable architectures, with an emphasis on transforming data into actionable insights.
 
-- 🌱 Currently working on **Rootly** - an agricultural monitoring system using IoT and microservices
-- 🔭 Exploring advanced distributed systems, Kubernetes, and event-driven architectures
-- 🔐 Deep interest in cryptography, secure system design, and access control mechanisms
-- 💡 Advocate for clean architecture, design patterns, and best coding practices
-- 📫 Open to collaborating on backend/infrastructure projects
+I have worked on projects involving **computer vision, predictive analysis, and real-time data systems**, combining software engineering principles with machine learning techniques.
+
+- 📊 Currently working as a Fullstack Developer at TKF Consulting Group S.A.S., developing data-driven solutions and exploring machine learning applications for decision-making in engineering projects
+- 🔭 Interested in Machine Learning, distributed systems, and data-driven decision making
+- 💡 Strong focus on system design, clean architecture, and practical ML applications
 
 > *"Security and reliability aren't features—they're foundations"*
 
@@ -80,6 +80,12 @@ I'm a Systems and Computing engineer passionate about building **secure, scalabl
 
 ## 🎯 Featured Projects
 
+### 🧠 [Facial Recognition System](https://github.com/cstovar/FacialRecognitionCNN)
+Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks
+
+**Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
+
+
 ### 🌾 [Rootly](https://github.com/swarch-2f-rootly) 
 Agricultural monitoring system with IoT integration, microservices architecture, and containerized deployment
 
@@ -90,10 +96,6 @@ Community marketplace with internal digital currency and reputation system for f
 
 **Tech:** Backend Development • System Deployment • Project Planning
 
-### 🧠 [Facial Recognition System](https://github.com/cstovar/FacialRecognitionCNN)
-Comparative analysis of Wide, Deep, and Convolutional Neural Networks for face recognition tasks
-
-**Tech:** PyTorch • Computer Vision • CNNs • Scikit-learn
 
 ### 🎮 [Android Tic Tac Toe with Firebase Multiplayer](https://github.com/MobileAppsDevelopment2025II/AndroidTicTacToe)
 Full-featured Android game with **real-time online multiplayer** via Firebase Firestore and **CPU opponent** with multiple difficulty levels
