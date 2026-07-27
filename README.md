@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Cristian Santiago Tovar
 
-### Systems & Computing Engineer | Machine Learning & Backend Engineer
+### Systems & Computing Engineer | Machine Learning & Full-Stack Engineer
 
 📍 Bogotá, Colombia 🇨🇴
 
